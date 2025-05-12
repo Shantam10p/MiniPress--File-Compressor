@@ -1,0 +1,29 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+env_name/
+
+# Logs
+*.log
+
+# Compressed and decompressed files
+compressed/
+decompressed/
+
+# Uploads
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.swp
+*.sln
