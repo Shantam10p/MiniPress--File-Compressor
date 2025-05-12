@@ -18,6 +18,10 @@ MiniPress File Compressor is a Python-based project that compresses and decompre
 - **Backend**: Python (Flask or similar framework)
 - **Algorithm**: Huffman Coding (Greedy Algorithm)
 
+## Vid Demonstration
+![MiniPress-Gif](https://github.com/user-attachments/assets/2f9f574a-7e46-4cf7-874d-212f9c980daf)
+
+
 ## Project Structure
 
 ```
